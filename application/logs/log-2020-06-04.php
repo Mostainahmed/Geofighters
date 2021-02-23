@@ -1,0 +1,309 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-04 01:00:08 --> Severity: Warning --> get_object_vars() expects parameter 1 to be object, null given /var/www/html/hydrokleen/v2/application/controllers/sales/Service.php 15
+ERROR - 2020-06-04 01:00:08 --> Severity: Notice --> Undefined index: name /var/www/html/hydrokleen/v2/application/views/view_container.php 234
+ERROR - 2020-06-04 01:00:08 --> Severity: Notice --> Undefined index: name /var/www/html/hydrokleen/v2/application/views/view_container.php 269
+ERROR - 2020-06-04 01:00:25 --> Severity: Warning --> explode() expects parameter 2 to be string, array given /var/www/html/hydrokleen/v2/system/database/DB_query_builder.php 1232
+ERROR - 2020-06-04 01:00:25 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/hydrokleen/v2/system/database/DB_query_builder.php 1232
+ERROR - 2020-06-04 01:01:12 --> Severity: Warning --> get_object_vars() expects parameter 1 to be object, null given /var/www/html/hydrokleen/v2/application/controllers/sales/Service.php 15
+ERROR - 2020-06-04 01:01:12 --> Severity: Notice --> Undefined index: name /var/www/html/hydrokleen/v2/application/views/view_container.php 234
+ERROR - 2020-06-04 01:01:12 --> Severity: Notice --> Undefined index: name /var/www/html/hydrokleen/v2/application/views/view_container.php 269
+ERROR - 2020-06-04 10:31:44 --> Severity: Warning --> explode() expects parameter 2 to be string, array given /var/www/html/hydrokleen/v2/system/database/DB_query_builder.php 1232
+ERROR - 2020-06-04 10:31:44 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/hydrokleen/v2/system/database/DB_query_builder.php 1232
+ERROR - 2020-06-04 10:31:44 --> Severity: Warning --> explode() expects parameter 2 to be string, array given /var/www/html/hydrokleen/v2/system/database/DB_query_builder.php 1232
+ERROR - 2020-06-04 10:31:44 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/hydrokleen/v2/system/database/DB_query_builder.php 1232
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 11:32:48 --> Severity: Notice --> Undefined index: servicetypeid /var/www/html/hydrokleen/v2/application/views/service/view_service_corporate_servicelist.php 98
+ERROR - 2020-06-04 12:23:15 --> Severity: Notice --> Undefined index: clientname /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 109
+ERROR - 2020-06-04 12:23:15 --> Severity: Notice --> Undefined index: companyname /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 109
+ERROR - 2020-06-04 12:23:17 --> Severity: Notice --> Undefined index: clientname /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 109
+ERROR - 2020-06-04 12:23:17 --> Severity: Notice --> Undefined index: companyname /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 109
+ERROR - 2020-06-04 12:23:21 --> Severity: Notice --> Undefined index: clientname /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 109
+ERROR - 2020-06-04 12:23:21 --> Severity: Notice --> Undefined index: companyname /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 109
+ERROR - 2020-06-04 12:23:25 --> Severity: Notice --> Undefined index: clientname /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 109
+ERROR - 2020-06-04 12:23:25 --> Severity: Notice --> Undefined index: companyname /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 109
+ERROR - 2020-06-04 12:23:29 --> Severity: Notice --> Undefined index: clientname /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 109
+ERROR - 2020-06-04 12:23:29 --> Severity: Notice --> Undefined index: companyname /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 109
+ERROR - 2020-06-04 12:43:28 --> Severity: Notice --> Undefined offset: 0 /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 122
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 9
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 26
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 26
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 27
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 30
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 32
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 34
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 39
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 45
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 45
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 60
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 61
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 62
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 65
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: history /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 104
+ERROR - 2020-06-04 13:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 104
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: addresses /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 138
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: addresses /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 140
+ERROR - 2020-06-04 13:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 140
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: aclist /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 157
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: aclist /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 160
+ERROR - 2020-06-04 13:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 160
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: servicetypes /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 173
+ERROR - 2020-06-04 13:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 173
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: addresses /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 221
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: addresses /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 222
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: clientinfo /var/www/html/hydrokleen/v2/application/views/common/view_modals.php 13
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: addresses /var/www/html/hydrokleen/v2/application/views/common/view_modals.php 20
+ERROR - 2020-06-04 13:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/hydrokleen/v2/application/views/common/view_modals.php 20
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: brands /var/www/html/hydrokleen/v2/application/views/common/view_modals.php 40
+ERROR - 2020-06-04 13:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/hydrokleen/v2/application/views/common/view_modals.php 40
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: tons /var/www/html/hydrokleen/v2/application/views/common/view_modals.php 49
+ERROR - 2020-06-04 13:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/hydrokleen/v2/application/views/common/view_modals.php 49
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: types /var/www/html/hydrokleen/v2/application/views/common/view_modals.php 62
+ERROR - 2020-06-04 13:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/hydrokleen/v2/application/views/common/view_modals.php 62
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: techs /var/www/html/hydrokleen/v2/application/views/common/view_modals.php 70
+ERROR - 2020-06-04 13:09:56 --> Severity: Warning --> Invalid argument supplied for foreach() /var/www/html/hydrokleen/v2/application/views/common/view_modals.php 70
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: aclist /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 297
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: servicetypes /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 298
+ERROR - 2020-06-04 13:09:56 --> Severity: Notice --> Undefined variable: addresses /var/www/html/hydrokleen/v2/application/views/service/view_service_create_corporate.php 299
+ERROR - 2020-06-04 13:20:59 --> Severity: Error --> Call to undefined method Model_Invoice::get_inventory_catagory_list() /var/www/html/hydrokleen/v2/application/controllers/purchase/Invoice.php 50
+ERROR - 2020-06-04 13:21:05 --> Severity: Error --> Call to undefined method Model_Invoice::get_inventory_catagory_list() /var/www/html/hydrokleen/v2/application/controllers/purchase/Invoice.php 50
+ERROR - 2020-06-04 13:28:48 --> Severity: Parsing Error --> syntax error, unexpected '->' (T_OBJECT_OPERATOR) /var/www/html/hydrokleen/v2/application/controllers/purchase/Invoice.php 20
+ERROR - 2020-06-04 13:29:24 --> Severity: error --> Exception: Unable to locate the model you have specified: Model_inventory /var/www/html/hydrokleen/v2/system/core/Loader.php 348
+ERROR - 2020-06-04 13:30:42 --> Severity: Notice --> Undefined property: Invoice::$Model_inventory /var/www/html/hydrokleen/v2/application/controllers/purchase/Invoice.php 51
+ERROR - 2020-06-04 13:30:42 --> Severity: Error --> Call to a member function get_inventory_catagory_list() on a non-object /var/www/html/hydrokleen/v2/application/controllers/purchase/Invoice.php 51
+ERROR - 2020-06-04 13:33:21 --> Severity: Error --> Call to undefined method Model_Inventory::get_items_by_typecode() /var/www/html/hydrokleen/v2/application/controllers/purchase/Invoice.php 69
+ERROR - 2020-06-04 13:38:14 --> Query error: Unknown column 'itemcode' in 'field list' - Invalid query: SELECT `itemcode`, `itemname`, `unit`
+FROM `tbl_Inventory_Category`
+WHERE `typecode` = ''
+ERROR - 2020-06-04 15:03:50 --> Severity: Warning --> Missing argument 1 for Client::overview() /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 102
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined variable: clientid /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 109
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined variable: clientid /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 111
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined variable: clientid /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 112
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined variable: clientid /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 113
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 122
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 26
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 216
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 239
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: clientname_bn /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 255
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: clientname_fb /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 264
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: phone1 /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 273
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: phone2 /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 282
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: phone3 /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 291
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: email /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 300
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: comment /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 327
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 377
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 610
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 703
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: source /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 792
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: isbadclient /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 793
+ERROR - 2020-06-04 15:03:50 --> Severity: Notice --> Undefined index: isvip /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 794
+ERROR - 2020-06-04 15:03:57 --> Severity: Warning --> Missing argument 1 for Client::overview() /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 102
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined variable: clientid /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 109
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined variable: clientid /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 111
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined variable: clientid /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 112
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined variable: clientid /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 113
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 122
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 26
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 216
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 239
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: clientname_bn /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 255
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: clientname_fb /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 264
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: phone1 /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 273
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: phone2 /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 282
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: phone3 /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 291
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: email /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 300
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: comment /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 327
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 377
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 610
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 703
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: source /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 792
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: isbadclient /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 793
+ERROR - 2020-06-04 15:03:57 --> Severity: Notice --> Undefined index: isvip /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 794
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 122
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 26
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 216
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 239
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: clientname_bn /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 255
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: clientname_fb /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 264
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: phone1 /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 273
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: phone2 /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 282
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: phone3 /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 291
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: email /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 300
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: comment /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 327
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 377
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 610
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 703
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: source /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 792
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: isbadclient /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 793
+ERROR - 2020-06-04 15:07:37 --> Severity: Notice --> Undefined index: isvip /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 794
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/controllers/crm/Client.php 122
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 26
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 216
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 239
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: clientname_bn /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 255
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: clientname_fb /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 264
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: phone1 /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 273
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: phone2 /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 282
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: phone3 /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 291
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: email /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 300
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: comment /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 327
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 377
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 610
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: clientid /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 703
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: source /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 792
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: isbadclient /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 793
+ERROR - 2020-06-04 15:25:01 --> Severity: Notice --> Undefined index: isvip /var/www/html/hydrokleen/v2/application/views/client/view_client_overview_corporate.php 794
+ERROR - 2020-06-04 17:52:56 --> Severity: Notice --> Undefined index: order /var/www/html/hydrokleen/v2/application/models/Model_Invoice.php 22
+ERROR - 2020-06-04 17:52:56 --> Severity: Notice --> Undefined index: columns /var/www/html/hydrokleen/v2/application/models/Model_Invoice.php 22
+ERROR - 2020-06-04 17:52:56 --> Severity: Notice --> Undefined index: order /var/www/html/hydrokleen/v2/application/models/Model_Invoice.php 23
